@@ -1,0 +1,9 @@
+{
+	"ip":"Erbatar.aternos.me",
+	"port": "34808",
+	"name": "Onlinekus",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
